@@ -1,0 +1,10 @@
+C:\Users\Mthembu\Documents\Visual Studio 2012\Projects\rc\rc\bin\rc.dll
+C:\Users\Mthembu\Documents\Visual Studio 2012\Projects\rc\rc\bin\rc.pdb
+C:\Users\Mthembu\Documents\Visual Studio 2012\Projects\rc\rc\obj\Debug\rc.csprojResolveAssemblyReference.cache
+C:\Users\Mthembu\Documents\Visual Studio 2012\Projects\rc\rc\obj\Debug\rc.dll
+C:\Users\Mthembu\Documents\Visual Studio 2012\Projects\rc\rc\obj\Debug\rc.pdb
+G:\card\rc\rc\bin\rc.dll
+G:\card\rc\rc\bin\rc.pdb
+G:\card\rc\rc\obj\Debug\rc.csprojResolveAssemblyReference.cache
+G:\card\rc\rc\obj\Debug\rc.dll
+G:\card\rc\rc\obj\Debug\rc.pdb

@@ -1,0 +1,162 @@
+/* CSS Document */
+html, body{margin:0px; padding:0px;}
+
+h1,p,a{font-family: 'Poiret One', cursive;}
+
+body{background-color:skyblue;}
+
+.Nav_Bar
+{
+	width: 100%;
+	height: 50px;
+	background-color: black;
+	margin-top: -16px;
+}
+
+a{text-decoration:none;
+color:white;
+opacity:0.5;
+}
+
+a:hover
+{
+ opacity:1;	
+}
+
+ul{margin-right: 50px;}
+
+li
+{
+	display:inline-block;
+	margin: 24px;
+	margin-top: 15px;
+	font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+	float:right;
+	
+		
+}
+
+img{
+	position:absolute;
+width: 20px;
+height: 20px;
+margin-top: 0px;
+margin-left: -25px;
+	opacity:0.5;
+}
+
+
+
+.Main
+{
+	width: 100%;
+	height: 521px;
+	float:left;
+	background-color:skyblue;
+	margin-top:-11px;
+}
+
+
+.Logo
+{
+	position:absolute;
+	margin-left: 295px;
+	margin-top: 50px;
+	width: 150px;
+	height: 150px;
+	background-image:url(Stats.png);
+	background-size:contain;
+	background-repeat:no-repeat;
+}
+
+.Brand
+{
+	position:absolute;
+	margin-left: 165px;
+	margin-top: 150px;
+	width: 400px;
+	height: 200px;
+	
+}
+
+.Brand > p
+{
+	text-align:center;
+	font-size:24px;
+	color:white;
+	margin-top:50px;	
+}
+
+.stats1
+{
+	position:absolute;
+	margin-left: 102px;
+	margin-top: 280px;
+	width: 250px;
+	height: 220px;
+
+	border: 1px solid #BFE8FF;
+	border-radius: 20px;
+
+}
+
+.stats2
+{
+	position:absolute;
+	margin-left: 388px;
+	margin-top: 280px;
+	width: 250px;
+	height: 220px;
+
+	border: 1px solid #BFE8FF;
+	border-radius: 20px;
+}
+
+.Logo_S1
+{
+	margin:auto;
+	margin-top: 10px;
+	width: 80px;
+	height: 80px;
+	background-image:url(Stats_1.png);
+	background-size:contain;
+	background-repeat:no-repeat;
+}
+
+.Logo_S2
+{
+	margin:auto;
+	margin-top: 10px;
+	width: 80px;
+	height: 80px;
+	background-image:url(Stats_2.png);
+	background-size:contain;
+	background-repeat:no-repeat;
+}
+
+.Brand_S
+{
+	text-align:center;
+	color:white;
+	font-size:22px;
+	margin-top:-3px;	
+}
+
+#RecoveredCards
+{
+	text-align:center;
+	font-size:28px;
+	color:white;
+	margin-top:10px;		
+}
+
+#LostCards
+{
+	text-align:center;
+	font-size:28px;
+	color:white;
+	margin-top:10px;
+}
+
+

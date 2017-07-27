@@ -1,0 +1,12 @@
+C:\Users\Lefa\Documents\Informatics\RCNS\RCNS\bin\x86\Debug\RCNS.exe.config
+C:\Users\Lefa\Documents\Informatics\RCNS\RCNS\bin\x86\Debug\RCNS.exe
+C:\Users\Lefa\Documents\Informatics\RCNS\RCNS\bin\x86\Debug\RCNS.pdb
+C:\Users\Lefa\Documents\Informatics\RCNS\RCNS\bin\x86\Debug\RCNS.xml
+C:\Users\Lefa\Documents\Informatics\RCNS\RCNS\bin\x86\Debug\mysql.data.dll
+C:\Users\Lefa\Documents\Informatics\RCNS\RCNS\bin\x86\Debug\OpenPop.dll
+C:\Users\Lefa\Documents\Informatics\RCNS\RCNS\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Lefa\Documents\Informatics\RCNS\RCNS\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Lefa\Documents\Informatics\RCNS\RCNS\obj\x86\Debug\RCNS.vbproj.GenerateResource.Cache
+C:\Users\Lefa\Documents\Informatics\RCNS\RCNS\obj\x86\Debug\RCNS.exe
+C:\Users\Lefa\Documents\Informatics\RCNS\RCNS\obj\x86\Debug\RCNS.xml
+C:\Users\Lefa\Documents\Informatics\RCNS\RCNS\obj\x86\Debug\RCNS.pdb

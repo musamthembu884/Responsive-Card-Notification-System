@@ -1,0 +1,162 @@
+/* CSS Document */
+html, body{margin:0px; padding:0px;}
+
+h1,p,a{font-family: 'Poiret One', cursive;}
+
+.Nav_Bar
+{
+	width: 100%;
+	height: 50px;
+	background-color: black;
+	margin-top: -16px;
+}
+
+a{text-decoration:none;
+color:white;
+opacity:0.5;
+}
+
+a:hover
+{
+ opacity:1;	
+}
+
+ul{margin-right: 50px;}
+
+li
+{
+	display:inline-block;
+	margin: 24px;
+	margin-top: 15px;
+	font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+	float:right;
+	
+		
+}
+
+img{
+	position:absolute;
+width: 20px;
+height: 20px;
+margin-top: 0px;
+margin-left: -25px;
+	opacity:0.5;
+}
+
+
+.Main
+{
+	width: 100%;
+	height: 521px;
+	float:left;
+	background-color:skyblue;
+	margin-top:-11px;
+}
+
+.Logo
+{
+	position:absolute;
+	margin-left: 295px;
+	margin-top: 50px;
+	width: 150px;
+	height: 150px;
+	background-image:url(logo.png);
+	background-size:contain;
+	background-repeat:no-repeat;
+}
+
+.Brand
+{
+	position:absolute;
+	margin-left: 165px;
+	margin-top: 150px;
+	width: 400px;
+	height: 200px;
+	
+}
+
+.Brand > h1
+{
+	text-align:center;
+	font-size:90px;
+	color:white;
+}
+
+.Brand > p
+{
+	text-align:center;
+	font-size:24px;
+	color:white;
+	margin-top:80px;	
+}
+
+.DidYouKnow
+{
+	position:absolute;
+	margin-left: 192px;
+	margin-top: 300px;
+	width: 350px;
+	height: 100px;
+	border: 1px solid #BFE8FF;
+	border-radius: 20px;
+}
+
+.DidYouKnow > h1
+{
+	padding: 10px;
+	text-align:center;
+	margin-top:-5px;
+	font-size:25px;
+	color:white;
+	opacity:0.5;
+}
+
+.DidYouKnow > p
+{
+	padding: 10px;
+	text-align:center;
+	margin-top:-25px;	
+	color:white;
+	opacity:0.8;
+	font-size:19px;
+}
+
+
+
+.prev
+{
+	position:absolute;
+	margin-left: 120px;
+	margin-top: 325px;
+	width: 50px;
+	height: 50px;
+	background-image:url(prev.png);
+	background-repeat:no-repeat;
+	background-size:contain;
+	opacity: 0.5;
+}
+
+.prev:hover
+{
+	opacity:1;	
+}
+
+.next
+{
+	position:absolute;
+	margin-left: 562px;
+	margin-top: 325px;
+	width: 50px;
+	height: 50px;
+	background-image:url(next.png);
+	background-repeat:no-repeat;
+	background-size:contain;
+	opacity: 0.5;		
+}
+
+.next:hover
+{
+	opacity:1;	
+}
+

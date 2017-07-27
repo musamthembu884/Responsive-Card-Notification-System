@@ -1,0 +1,183 @@
+/* CSS Document */
+html, body{margin:0px; padding:0px;}
+
+h1,p,a{font-family: 'Poiret One', cursive;}
+
+.Nav_Bar
+{
+	width: 100%;
+	height: 50px;
+	background-color: black;
+	margin-top: -16px;
+}
+
+a{text-decoration:none;
+color:white;
+opacity:0.5;
+}
+
+a:hover
+{
+ opacity:1;	
+}
+
+ul{margin-right: 50px;}
+
+li
+{
+	display:inline-block;
+	margin: 24px;
+	margin-top: 15px;
+	font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+	float:right;
+	
+		
+}
+
+img{
+	position:absolute;
+width: 20px;
+height: 20px;
+margin-top: 0px;
+margin-left: -25px;
+	opacity:0.5;
+}
+
+
+.Main
+{
+	width: 100%;
+	height: 521px;
+	float:left;
+	background-color:skyblue;
+	margin-top:-11px;
+}
+
+
+.Logo
+{
+	position:absolute;
+	margin-left: 295px;
+	margin-top: 50px;
+	width: 150px;
+	height: 150px;
+	background-image:url(retrieve.png);
+	background-size:contain;
+	background-repeat:no-repeat;
+}
+
+.Brand
+{
+	position:absolute;
+	margin-left: 165px;
+	margin-top: 150px;
+	width: 400px;
+	height: 200px;
+	
+}
+
+.Brand > p
+{
+	text-align:center;
+	font-size:24px;
+	color:white;
+	margin-top:70px;	
+}
+
+.txtStudentNum
+{
+	position:absolute;
+	margin-left: 192px;
+	margin-top: 280px;
+	width: 350px;
+	height: 50px;
+	background-color:white;
+	border: 1px solid black;
+}
+
+.Proof
+{
+	position:absolute;
+	margin-left: 194px;
+	margin-top: 350px;
+	width: 350px;
+	height: 50px;	
+	background-color:skyblue;
+	
+}
+
+.Proof > p
+{
+	font-size:24px;
+	position:absolute;
+	margin-left: 90px;
+	margin-top: 10px;
+	color: white;
+	
+}
+
+.Checkbox
+{
+    
+	float:right;
+	
+	width: 50px;
+	height: 50px;
+	border: 1px solid black;
+	cursor:pointer;
+	
+	
+}
+
+
+.btnGoX
+{
+	position:absolute;
+	margin-left: 562px;
+	margin-top: 350px;
+	width: 50px;
+	height: 50px;
+	background-image:url(next.png);
+	background-repeat:no-repeat;
+	background-size:contain;
+	opacity: 0.5;		
+}
+
+.btnGoX:hover
+{
+	opacity:1;	
+}
+
+#txtStudentNumber
+{
+	width: 349px;
+	height: 48px;	
+	border:none;
+	margin:auto;
+font-size:22px;
+	font-family: 'Poiret One', cursive;
+}
+
+#txtStudentNumber:focus
+{
+	border: none;
+}
+
+.isChecked
+{
+	float:right;
+	
+	width: 50px;
+	height: 50px;
+	border: 1px solid black;
+	cursor:pointer;
+	
+	background-color:#C4FFC7;
+	background-image:url(check.png);
+	background-size:contain;
+	background-repeat:no-repeat;	
+}
+
+
+
